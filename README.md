@@ -30,3 +30,5 @@ The program can be ran as a script (`python main.py`), or it can be compiled int
 `pip install pyinstaller`
 
 `pyinstaller --onefile --windowed main.py`
+
+The compiled binary is also available in Releases, if you're interested in that sort of thing
