@@ -12,13 +12,11 @@ Stands for:
 - **M**y
 - **W**indows
 - **T**oolbar
-    - (
-    - **I**n
+    - (**I**n
     - **A**ddition
     - **T**o
     - **M**y
-    - **S**kin
-    - )
+    - **S**kin)
 
 ## Setup
 First, clone the respository:
