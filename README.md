@@ -1,7 +1,7 @@
 # DCGMIMWTIATMS
 
 ## About
-This is a basic program that shows blood-glucose levels in g/dL on the Windows toolbar.
+This is a basic program that shows blood-glucose levels in mg/dL on the Windows toolbar.
 Stands for:
 
 - **D**excom's
