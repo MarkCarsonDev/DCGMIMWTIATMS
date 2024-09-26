@@ -1,0 +1,5 @@
+tk
+pydexcom
+pystray
+keyring
+pillow
