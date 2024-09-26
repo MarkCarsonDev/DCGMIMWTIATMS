@@ -1,7 +1,7 @@
 # DCGMIMWTIATMS
 
 ## About
-This is a basic program that shows blood-glucose levels in mg/dL on the Windows toolbar.
+This is a basic program that shows blood-glucose levels in mg/dL on the Windows toolbar from Dexcom's API.
 Stands for:
 
 - **D**excom's
@@ -31,4 +31,4 @@ The program can be ran as a script (`python main.py`), or it can be compiled int
 
 `pyinstaller --onefile --windowed main.py`
 
-The compiled binary is also available in Releases, if you're interested in that sort of thing
+The compiled binary is also available in [Releases](https://github.com/MarkCarsonDev/DCGMIMWTIATMS/releases), if you're interested in that sort of thing
