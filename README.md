@@ -19,8 +19,14 @@ Stands for:
     - **S**kin)
 
 ## Setup
+
 First, clone the respository:
+
 `git clone https://github.com/MarkCarsonDev/DCGMIMWTIATMS`
+
+
 The program can be ran as a script (`python main.py`), or it can be compiled into an executable usng the pyinstaller package:
+
 `pip install pyinstaller`
+
 `pyinstaller --onefile --windowed main.py`
