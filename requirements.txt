@@ -3,3 +3,6 @@ pydexcom
 pystray
 keyring
 pillow
+winshell
+pywin32
+pyinstaller

@@ -27,6 +27,6 @@ First, clone the respository:
 
 The program can be ran as a script (`python main.py`), or it can be compiled into an executable usng the pyinstaller package:
 
-`pip install pyinstaller`
+`pip install -r requirements.txt`
 
-`pyinstaller --onefile --windowed main.py`
+`pyinstaller --onefile --windowed --name "GlucoseMonitor" main.py --clean --noupx`
